@@ -2,19 +2,14 @@ using UnityEngine;
 
 public class AnimationOnClick : MonoBehaviour
 {
-    [SerializeField]private Animator animator;
-
-    private void Start()
-    {
-        if(animator == null)
-        {
-            animator = GetComponent<Animator>();
-        }
-    }
+    [SerializeField]private Animator[] animators;
 
     private void OnMouseDown()
     {
-        animator.SetTrigger("Run");
+        foreach (var animator in animators)
+        {
+            animator.SetTrigger("Play");
+        }
     }
 
 }
