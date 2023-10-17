@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 7483238557459129246}
   - component: {fileID: 8530743146014178312}
   m_Layer: 0
-  m_Name: ninja_run
+  m_Name: ninja_run_on_click
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
