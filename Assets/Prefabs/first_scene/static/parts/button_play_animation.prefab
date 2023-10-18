@@ -58,7 +58,7 @@ PrefabInstance:
     - target: {fileID: 7904895256238546541, guid: a63ed106ec6af464d9bc65aac76f6495, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+      objectReference: {fileID: -6324198015570480061, guid: cf431e563018d45dca2de020229577d6, type: 2}
     - target: {fileID: 8935658125080218087, guid: a63ed106ec6af464d9bc65aac76f6495, type: 3}
       propertyPath: m_text
       value: 'I''m sprite
@@ -67,6 +67,14 @@ PrefabInstance:
 
         animations'
       objectReference: {fileID: 0}
+    - target: {fileID: 8935658125080218087, guid: a63ed106ec6af464d9bc65aac76f6495, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: cf431e563018d45dca2de020229577d6, type: 2}
+    - target: {fileID: 8935658125080218087, guid: a63ed106ec6af464d9bc65aac76f6495, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: -6324198015570480061, guid: cf431e563018d45dca2de020229577d6, type: 2}
     - target: {fileID: 9182320930688752985, guid: a63ed106ec6af464d9bc65aac76f6495, type: 3}
       propertyPath: m_Name
       value: button_play_animation
