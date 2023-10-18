@@ -2,21 +2,21 @@ using UnityEngine;
 
 public class AudioPlay : MonoBehaviour
 {
-    [SerializeField] private AudioSource audio;
+    [SerializeField] private AudioSource audioSrc;
 
     private void Start()
     {
-        if (audio == null)
+        if (audioSrc == null)
         {
-            audio = GetComponent<AudioSource>();
+            audioSrc = GetComponent<AudioSource>();
         }
     }
 
     private void OnMouseDown()
     {
-        if (!audio.isPlaying)
+        if (!audioSrc.isPlaying)
         {
-            audio.Play();
+            audioSrc.Play();
         }
     }
 }
