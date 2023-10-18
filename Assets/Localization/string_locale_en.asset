@@ -30,6 +30,10 @@ MonoBehaviour:
     m_Localized: "I'm sprite.\nClick me to show \nUI button"
     m_Metadata:
       m_Items: []
+  - m_Id: 45890722062336
+    m_Localized: Previous Scene
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

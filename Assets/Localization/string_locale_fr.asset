@@ -33,6 +33,10 @@ MonoBehaviour:
       de UI'
     m_Metadata:
       m_Items: []
+  - m_Id: 45890722062336
+    m_Localized: "Sc\xE8ne pr\xE9c\xE9dente"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

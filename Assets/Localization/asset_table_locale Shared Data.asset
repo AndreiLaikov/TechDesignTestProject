@@ -14,9 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_TableCollectionName: asset_table_locale
   m_TableCollectionNameGuidString: 1b50948846f9f443db9beb1e2dbd5124
-  m_Entries: []
+  m_Entries:
+  - m_Id: 51361759617024
+    m_Key: 0_first_scene/Canvas/button_change_local
+    m_Metadata:
+      m_Items: []
   m_Metadata:
-    m_Items: []
+    m_Items:
+    - rid: 8436707066734182523
   m_KeyGenerator:
     rid: 8436707066734182504
   references:
@@ -26,3 +31,14 @@ MonoBehaviour:
       type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
       data:
         m_CustomEpoch: 1697619329992
+    - rid: 8436707066734182523
+      type: {class: AssetTypeMetadata, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries:
+        - m_KeyId: 51361759617024
+          m_TableCodes:
+          - en
+          - fr
+          - ru
+        m_TypeString: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
