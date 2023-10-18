@@ -18,7 +18,7 @@ MonoBehaviour:
   m_GUID: 533a75fcad2674e0caa716c78a89bf35
   m_SerializeEntries:
   - m_GUID: 219a350f6ccaf4d05812bdaedc7b1185
-    m_Address: StringLocale_ru
+    m_Address: string_locale_ru
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-ru

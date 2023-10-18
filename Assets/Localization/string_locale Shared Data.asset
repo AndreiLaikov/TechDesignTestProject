@@ -12,9 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
   m_Name: string_locale Shared Data
   m_EditorClassIdentifier: 
-  m_TableCollectionName: StringLocale
+  m_TableCollectionName: string_locale
   m_TableCollectionNameGuidString: 6ec23affb1a8e4f508c99f285c802050
-  m_Entries: []
+  m_Entries:
+  - m_Id: 1182620704768
+    m_Key: label_play_animation
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7703207337984
+    m_Key: label_next_scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8827045928960
+    m_Key: label_show_ui
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

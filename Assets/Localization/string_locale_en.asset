@@ -17,7 +17,19 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: 6ec23affb1a8e4f508c99f285c802050, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData: []
+  m_TableData:
+  - m_Id: 1182620704768
+    m_Localized: "I'm sprite.\nClick me to play \nanimations"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7703207337984
+    m_Localized: Next Scene
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8827045928960
+    m_Localized: "I'm sprite.\nClick me to show \nUI button"
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

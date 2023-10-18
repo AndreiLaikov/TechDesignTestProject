@@ -17,7 +17,22 @@ MonoBehaviour:
   m_SharedData: {fileID: 11400000, guid: 6ec23affb1a8e4f508c99f285c802050, type: 2}
   m_Metadata:
     m_Items: []
-  m_TableData: []
+  m_TableData:
+  - m_Id: 1182620704768
+    m_Localized: "Je suis un sprite.\nCliquez sur moi pour d\xE9marrer\nles animations"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7703207337984
+    m_Localized: "Sc\xE8ne suivante"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 8827045928960
+    m_Localized: 'Je suis un sprite.
+
+      Cliquez sur moi pour afficher le bouton
+      de UI'
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
