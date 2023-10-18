@@ -28,7 +28,7 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 45890722062336
-    m_Key: button_previous_scene/Prefab Mode in Context/button_previous_scene/previous_scene_label
+    m_Key: label_previuos_scene
     m_Metadata:
       m_Items: []
   m_Metadata:
